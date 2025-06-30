@@ -12,7 +12,7 @@ This is a demo serverless application using AWS Lambda, API Gateway, and DynamoD
 
 1. Clone the repository
     ```bash
-    git clone https://github.com/davraops/serverless-app.git
+    git clone https://github.com/wonderolabisi/serverless-app.git
     cd serverless-app
     ```
 
